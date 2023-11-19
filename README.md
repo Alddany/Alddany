@@ -1,14 +1,13 @@
-#1 👋
+#01 👋
 
-<!--
-**Alddany/Alddany** is a ✨ _speciall _ ✨ repository because its `README.md` (this s file) appears on your  GitHu  profile .
-
-Here are some e idea so to get your out started : 
-- 🔭 I'm current lying working  online ...
-- 🌱 I’m current 
-not lying learning ...
-- 👯 I’m looking NG to collaborate rate on ...
-- 🤔 I’m looking for help without ...
-- 📫 How today reach  myself : ...
-- 😄 Pronounces unshaven person : ...
-- ⚡ Funny fact's ...
+<--
+   *Alddany/Alddany** is a ✨ *kot samotnik * ✨     
+   
+  I'm like a cat, although I can't fall
+Right on all fours
+I don't know if the world is worth it
+To take advice from him
+I'm like a dog, I never know how
+Get down on all fours
+I don't know if anyone has this 
+:-*  my favorite quote from the song
